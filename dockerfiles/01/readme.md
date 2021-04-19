@@ -1,7 +1,7 @@
 
 #### Dockerfile
 
-**1. Descrição geral do [dockerfile 01](https://github.com/yanevasquez/docker-linuxtips/dockerfiles/01/Dockerfile):**
+**1. Descrição geral do [dockerfile 01](https://github.com/yanevasquez/docker-linuxtips/blob/main/dockerfiles/01/Dockerfile):**
 
 ```dockerfile
 FROM ← imagem ao qual o container é baseado.
